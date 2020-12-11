@@ -1,1 +1,1 @@
-# bitcoin-heist-detection
+# Detection of Bitcoin Ransomware Address
